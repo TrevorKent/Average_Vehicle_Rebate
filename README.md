@@ -1,2 +1,2 @@
 # Average_Vehicle_Rebate
-Average vehicle reabte spend compared to average transaction price.
+Average vehicle rebate spend compared to average transaction price. Souce: True Car
